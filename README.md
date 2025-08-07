@@ -29,12 +29,14 @@ This project is a simple REST API for managing a list of books using **Node.js**
 ---
 
 ## 📁 Project Structure
+```
 books-api-T3/
 ├── images/
 │ └── postman_ss.png
 ├── index.js
 ├── package.json
 └── README.md
+```
 ## 🧪 How to Test
 
 1. **Start the Server**  
